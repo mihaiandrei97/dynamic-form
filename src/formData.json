@@ -1,0 +1,127 @@
+{
+  "step_1": {
+    "question_1": {
+      "id": "11",
+      "question_text": "Question1?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer1"],
+      "type": "button_radio"
+    },
+    "question_2": {
+      "id": "12",
+      "question_text": "Question2?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer2"],
+      "type": "button_radio"
+    },
+    "question_3": {
+      "id": "13",
+      "question_text": "Question3?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer1", "Answer2"],
+      "type": "checkbox"
+    },
+    "question_4": {
+      "id": "14",
+      "question_text": "Please enter the correct value:",
+      "answers": [],
+      "correct_answer": ["123"],
+      "type": "input"
+    },
+    "question_5": {
+      "id": "15",
+      "question_text": "Please enter a date:",
+      "answers": [],
+      "correct_answer": ["1990"],
+      "type": "datepicker"
+    },
+    "question_6": {
+      "id": "16",
+      "question_text": "Question6?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer2"],
+      "type": "drop_down"
+    }
+  },
+  "step_2": {
+    "question_1": {
+      "id": "21",
+      "question_text": "Question1?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer1"],
+      "type": "button_radio"
+    },
+    "question_2": {
+      "id": "22",
+      "question_text": "Question2?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer2"],
+      "type": "button_radio"
+    },
+    "question_3": {
+      "id": "23",
+      "question_text": "Question3?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer1", "Answer2"],
+      "type": "checkbox"
+    },
+    "question_4": {
+      "id": "24",
+      "question_text": "Please enter the correct value:",
+      "answers": [],
+      "correct_answer": ["123"],
+      "type": "input"
+    },
+    "question_5": {
+      "id": "25",
+      "question_text": "Please enter a date:",
+      "answers": [],
+      "correct_answer": ["1990"],
+      "type": "datepicker"
+    },
+    "question_6": {
+      "id": "26",
+      "question_text": "Question6?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer2"],
+      "type": "drop_down"
+    },
+    "question_7": {
+      "id": "27",
+      "question_text": "Question7?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer2"],
+      "type": "drop_down"
+    }
+  },
+  "step_3": {
+    "question_1": {
+      "id": "31",
+      "question_text": "Question1?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer1"],
+      "type": "button_radio"
+    },
+    "question_2": {
+      "id": "32",
+      "question_text": "La ce data a avut loc nu stiu ce",
+      "answers": [],
+      "correct_answer": ["1990"],
+      "type": "datepicker"
+    },
+    "question_3": {
+      "id": "33",
+      "question_text": "Question3?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer2"],
+      "type": "drop_down"
+    },
+    "question_4": {
+      "id": "34",
+      "question_text": "Question4?",
+      "answers": ["Answer1", "Answer2", "Answer3", "Answer4"],
+      "correct_answer": ["Answer2"],
+      "type": "drop_down"
+    }
+  }
+}
